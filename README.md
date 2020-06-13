@@ -1,6 +1,9 @@
 # BotDetection
 Give percentage to some Twitter Bots using Twint Library
 
+Bot Detection System is an algorithm which can detect bot account in twitter based on the specified conditions. The developed system can sort the issue or topic in keywords. The systems then will get the profile data from the detected accounts. The system will give the quantitative values based on the criteria or the specific programmed terms. This system is the integrations between Search Engine method, distribution systems, and bot measurements
+
+
 ### Running Program in Windows
 1. Open CMD (make sure you have Python3 installed on your browser)
 2. Go to the project repository
